@@ -37,4 +37,4 @@ Team:
 Kory Bryson: Weapon design and implementation and level objectives.
 Gregory Campbell: Level design and pick-ups.
 Mitchell Cook: Player design, game controls and heads up display.
-Christopher Landon: Enemy design and AI.
+Christopher Landon: Enemy design and AI. 
