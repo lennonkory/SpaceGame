@@ -1,0 +1,70 @@
+Initialize engine version: 5.3.3f1 (910d71450a97)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx64.dll 8.17.10.1404]
+    Renderer: AMD Radeon HD 6800 Series
+    Vendor:   ATI
+    VRAM:     1011 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Kory\Documents\Code\SpaceGame\project-Descent\FinalGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Kory\Documents\Code\SpaceGame\project-Descent\FinalGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Kory\Documents\Code\SpaceGame\project-Descent\FinalGame_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Kory\Documents\Code\SpaceGame\project-Descent\FinalGame_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Kory\Documents\Code\SpaceGame\project-Descent\FinalGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Kory\Documents\Code\SpaceGame\project-Descent\FinalGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Kory\Documents\Code\SpaceGame\project-Descent\FinalGame_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Kory\Documents\Code\SpaceGame\project-Descent\FinalGame_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Kory\Documents\Code\SpaceGame\project-Descent\FinalGame_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Kory\Documents\Code\SpaceGame\project-Descent\FinalGame_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Kory\Documents\Code\SpaceGame\project-Descent\FinalGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Kory\Documents\Code\SpaceGame\project-Descent\FinalGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Kory\Documents\Code\SpaceGame\project-Descent\FinalGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Kory\Documents\Code\SpaceGame\project-Descent\FinalGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Kory\Documents\Code\SpaceGame\project-Descent\FinalGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Kory\Documents\Code\SpaceGame\project-Descent\FinalGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Kory\Documents\Code\SpaceGame\project-Descent\FinalGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Kory\Documents\Code\SpaceGame\project-Descent\FinalGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.093 seconds
+Platform assembly: C:\Users\Kory\Documents\Code\SpaceGame\project-Descent\FinalGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Kory\Documents\Code\SpaceGame\project-Descent\FinalGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3600x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.939644 ms
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.971955 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1076.
+Total: 0.443422 ms (FindLiveObjects: 0.053777 ms CreateObjectMapping: 0.034711 ms MarkObjects: 0.319733 ms  DeleteObjects: 0.024933 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.747511 ms
+
+Unloading 202 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 0.529466 ms (FindLiveObjects: 0.047911 ms CreateObjectMapping: 0.021022 ms MarkObjects: 0.165733 ms  DeleteObjects: 0.288933 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.477644 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1482.
+Total: 0.591066 ms (FindLiveObjects: 0.114888 ms CreateObjectMapping: 0.031288 ms MarkObjects: 0.415066 ms  DeleteObjects: 0.024933 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.012977 ms
+
+Unloading 290 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 0.615022 ms (FindLiveObjects: 0.052311 ms CreateObjectMapping: 0.021511 ms MarkObjects: 0.199955 ms  DeleteObjects: 0.336844 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.362755 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1415.
+Total: 0.604266 ms (FindLiveObjects: 0.062088 ms CreateObjectMapping: 0.032755 ms MarkObjects: 0.478133 ms  DeleteObjects: 0.025911 ms)
+
+WARNING: Shader Unsupported: 'HeatDistort' - Pass 'BASE' has no vertex shader
+WARNING: Shader Unsupported: 'HeatDistort' - All passes removed
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2790 -> priority: 1 
+  Thread -> id: 2b14 -> priority: 1 
